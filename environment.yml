@@ -5,14 +5,14 @@ channels:
 dependencies:
   - python=3.8
   - pip
-  - snowflake-snowpark-python==1.3.0
+  - snowflake-snowpark-python
   - ipykernel
   - pyarrow
-  - numpy==1.23.5
-  - scikit-learn==1.2.2
-  - pandas==1.5.3
-  - joblib==1.1.1
-  - cachetools==4.2.2
-  - matplotlib==3.7.1
-  - seaborn=0.12.2
+  - numpy
+  - scikit-learn
+  - pandas
+  - joblib
+  - cachetools
+  - matplotlib
+  - seaborn
   
